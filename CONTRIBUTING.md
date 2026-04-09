@@ -1,16 +1,16 @@
-# ClaimHeart Internal Contribution Guide
+# finTrust Internal Contribution Guide
 
 This document describes how authorized team members and approved
-collaborators should contribute to ClaimHeart.
+collaborators should contribute to finTrust.
 
-ClaimHeart is a private group project. It is not an open-source repository,
-and contribution access is managed internally by the ClaimHeart Project Team.
+finTrust is a private group project. It is not an open-source repository,
+and contribution access is managed internally by the finTrust Project Team.
 
 ## Who Can Contribute
 
 The following people may contribute:
 
-- Core members of the ClaimHeart Project Team
+- Core members of the finTrust Project Team
 - Approved collaborators invited by the Project Team
 - Reviewers or maintainers authorized to work on specific areas
 
@@ -43,11 +43,11 @@ Internal review should check for:
 
 ## Ownership of Contributions
 
-By contributing to ClaimHeart, you confirm that:
+By contributing to finTrust, you confirm that:
 
 - You are authorized to submit the contribution
 - The contribution does not knowingly violate third-party rights
-- The ClaimHeart Project Team may use, modify, and maintain the contribution
+- The finTrust Project Team may use, modify, and maintain the contribution
   as part of the project
 
 Refer to the `LICENSE` file for the governing project license terms.
