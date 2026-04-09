@@ -1,9 +1,9 @@
-CLAIMHEART PRIVATE PROJECT LICENSE
+FINTRUST PRIVATE PROJECT LICENSE
 
-Copyright (c) 2026 ClaimHeart Project Team. All rights reserved.
+Copyright (c) 2026 FinTrust Project Team. All rights reserved.
 
-Project: ClaimHeart - Medical Claims Processing System
-Repository: https://github.com/simplysandeepp/claimHeart
+Project: FinTrust - Medical Claims Processing System
+Repository: https://github.com/SachinManral/finTrust
 License Type: Proprietary Internal-Use License
 Effective Date: 2026
 Version: 2.0
@@ -12,18 +12,18 @@ Version: 2.0
 1. LICENSE STATUS
 ========================================================================
 
-ClaimHeart is a private group project. This repository and its contents are
+FinTrust is a private group project. This repository and its contents are
 not open source and are not released under the MIT License or any other
 public open-source license.
 
 All rights not expressly granted in this license are reserved by the
-ClaimHeart Project Team.
+FinTrust Project Team.
 
 ========================================================================
 2. OWNERSHIP
 ========================================================================
 
-The ClaimHeart Project Team owns all rights, title, and interest in this
+The FinTrust Project Team owns all rights, title, and interest in this
 project, including its source code, documentation, configuration, design
 assets, workflows, and related materials, except for third-party components
 that remain subject to their own licenses.
@@ -42,7 +42,7 @@ This license applies to all project components, including:
 
 Access to and use of this project is limited to:
 
-- Authorized members of the ClaimHeart Project Team
+- Authorized members of the FinTrust Project Team
 - Approved collaborators working with the Project Team
 - Personnel expressly permitted by the Project Team for internal business,
   development, testing, security review, or deployment purposes
@@ -59,7 +59,7 @@ Authorized users may:
 4. RESTRICTIONS
 ========================================================================
 
-Unless the ClaimHeart Project Team gives prior written permission, you may
+Unless the FinTrust Project Team gives prior written permission, you may
 not:
 
 - Publish, distribute, or sublicense this software
@@ -69,7 +69,7 @@ not:
 - Sell, lease, transfer, or commercially exploit this software outside
   approved Project Team activities
 - Remove copyright, confidentiality, or ownership notices
-- Use the ClaimHeart name, branding, or trademarks in a way that implies
+- Use the FinTrust name, branding, or trademarks in a way that implies
   separate ownership or unauthorized endorsement
 
 ========================================================================
@@ -89,12 +89,12 @@ contracts, and legal requirements.
 ========================================================================
 
 All contributions made to this project by team members or approved
-collaborators are intended for use within the ClaimHeart project and are
+collaborators are intended for use within the FinTrust project and are
 treated as contributions to a group-owned project.
 
 By submitting code, documentation, designs, or other project materials, a
 contributor represents that they have the right to submit the work and grants
-the ClaimHeart Project Team the right to use, modify, integrate, and maintain
+the FinTrust Project Team the right to use, modify, integrate, and maintain
 that contribution as part of the project.
 
 Contribution access and review are managed internally by the Project Team.
@@ -125,7 +125,7 @@ license terms.
 8. MEDICAL AND COMPLIANCE DISCLAIMER
 ========================================================================
 
-ClaimHeart is intended to support medical claims processing and related
+FinTrust is intended to support medical claims processing and related
 administrative workflows. It is not intended to provide medical advice, make
 independent clinical decisions, or replace professional review.
 
@@ -149,7 +149,7 @@ AVAILABILITY, ACCURACY, OR SECURITY.
 10. LIMITATION OF LIABILITY
 ========================================================================
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE CLAIMHEART PROJECT TEAM SHALL NOT
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE FINTRUST PROJECT TEAM SHALL NOT
 BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
 CONSEQUENTIAL DAMAGES, OR FOR ANY LOSS OF DATA, BUSINESS, REVENUE, PROFITS,
 OR GOODWILL, ARISING FROM OR RELATED TO THE USE OF THIS SOFTWARE OR INABILITY
@@ -163,7 +163,7 @@ Any permission granted under this license terminates automatically if you
 breach its terms or access the project without authorization.
 
 Upon termination, you must stop using the project and, if requested by the
-ClaimHeart Project Team, return or delete any copies of project materials in
+FinTrust Project Team, return or delete any copies of project materials in
 your possession or control, except where retention is required by law or
 contract.
 
@@ -171,8 +171,8 @@ contract.
 12. CONTACT
 ========================================================================
 
-Project Owner: ClaimHeart Project Team
-Repository: https://github.com/simplysandeepp/claimHeart
+Project Owner: FinTrust Project Team
+Repository: https://github.com/SachinManral/finTrust
 
 For licensing or access questions, contact the Project Team through the
 official repository administrators or designated project leads.
@@ -188,4 +188,4 @@ Version 2.0 (2026)
 
 ========================================================================
 
-This document is the governing license notice for the ClaimHeart project.
+This document is the governing license notice for the FinTrust project.
