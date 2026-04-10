@@ -13,15 +13,33 @@
 #         "structured_data": parsed_data
 #     }
 
+# from app.utils.ocr import extract_text_from_image
+# from app.utils.parser import parse_medical_text as extract_structured_data
+
+# def extractor_agent(file_path):
+#     raw_text = extract_text_from_image(file_path)
+
+#     structured = extract_structured_data(raw_text)
+
+#     return {
+#         "raw_text": raw_text,
+#         "structured_data": structured
+#     }
+
+
 from app.utils.ocr import extract_text_from_image
-from app.utils.parser import parse_medical_text as extract_structured_data
+from app.utils.parser import parse_medical_text
+from app.services.rag_service import analyze_claim
 
 def extractor_agent(file_path):
     raw_text = extract_text_from_image(file_path)
 
-    structured = extract_structured_data(raw_text)
+    structured = parse_medical_text(raw_text)
+
+    rag_result = analyze_claim(structured)
 
     return {
         "raw_text": raw_text,
-        "structured_data": structured
+        "structured_data": structured,
+        "analysis": rag_result
     }
