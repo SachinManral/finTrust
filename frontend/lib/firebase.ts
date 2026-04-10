@@ -4,7 +4,10 @@ import { getApp, getApps, initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
-const readFirebaseEnv = (value: string | undefined) => value?.trim() ?? "XYZ";
+const readFirebaseEnv = (value: string | undefined) => {
+  if (!value) throw new Error("Missing Firebase env");
+  return value.trim();
+};
 
 const firebaseConfig = {
   apiKey: readFirebaseEnv(process.env.NEXT_PUBLIC_FIREBASE_API_KEY),

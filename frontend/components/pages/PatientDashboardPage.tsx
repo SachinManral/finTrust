@@ -58,7 +58,7 @@ export default function PatientDashboardPage() {
     status === "approved"
       ? "bg-[linear-gradient(135deg,#123f64_0%,#1f5f95_54%,#1d7ca8_100%)]"
       : status === "denied"
-        ? "bg-[linear-gradient(135deg,#4f1f2b_0%,#7a2d3d_58%,#3a131c_100%)]"
+        ? "bg-[linear-gradient(135deg,#112843_0%,#164876_54%,#1f6e9d_100%)]"
         : "bg-[linear-gradient(135deg,#17324f_0%,#23517a_54%,#3a6f97_100%)]";
   const steps = buildPatientSteps(activeClaim ?? ({ status } as typeof activeClaim));
   const activity = buildClaimActivity(activeClaim?.timeline ?? []);
