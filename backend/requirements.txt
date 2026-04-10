@@ -29,6 +29,7 @@ PyMuPDF
 
 # AI & LLM
 google-generativeai
+openai
 
 # TASK QUEUE 
 celery

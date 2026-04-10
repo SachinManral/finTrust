@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.api.routes import ocr, health, claims
+from app.api.routes import claims, fraud, health, ocr
 
 app = FastAPI(
     title="ClaimHeart API",
@@ -21,6 +21,7 @@ app.add_middleware(
 app.include_router(health.router, prefix="/api", tags=["Health"])
 app.include_router(ocr.router, prefix="/api/ocr", tags=["OCR"])
 app.include_router(claims.router, prefix="/api/claims", tags=["Claims"])
+app.include_router(fraud.router, prefix="/api/fraud", tags=["Fraud"])
 
 @app.get("/")
 async def root():
